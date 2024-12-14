@@ -37,6 +37,9 @@ OC Version : 1.0.3 RELEASE
 | Airdrop/Handoff | ❌  |
 </details>
 
+**NVRAM Boot arguments**.  
+Add ``gfxonln=1`` to fix HDMI Waking from sleep.
+
 **Kexts**   
 ![image](https://github.com/user-attachments/assets/1493a30c-fd4a-445c-892f-092a5c5a96f9)  
 
