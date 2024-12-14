@@ -44,12 +44,7 @@ OC Version : 1.0.3 RELEASE
 - Airportltwm is not supported in Sonoma or later. Use ltwm+heliport.
 
 **ACPI**   
-- SSDT-EC.aml  
-- SSDT-MCHC.aml 
-- SSDT-PLUG.aml 
-- SSDT-RTCAWAC.aml 
-- SSDT-SBUS.aml 
-- SSDT-USB-Reset.aml
+![image](https://github.com/user-attachments/assets/b5611e6a-33d4-4c49-a5a6-03d5f2edfcaa). 
 
 - Generate them using SSDTime on Windows
 - No patches needed, Ensure you have XHCI-unsupported.kext
@@ -81,7 +76,7 @@ Use these settings to:
 | framebuffer-con3-preferred-ls         | 01000000                  |
 
 
-***Additional Information***
+***Additional Information***   
 Enable HashServices in config.plist      
 SMBios is iMac21,1
 
