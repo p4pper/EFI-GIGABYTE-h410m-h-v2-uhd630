@@ -1,0 +1,1 @@
+# EFI-GIGABYTE-h410m-h-v2-uhd630-Hackintosh
