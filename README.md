@@ -1,3 +1,4 @@
+**Do not endorse distributing and profiting from EFIs**
 # EFI-GIGABYTE-H410M-H-V2-uhd630-Sequoia
 
 ![Screenshot 2024-12-14 at 4 04 01 PM](https://github.com/user-attachments/assets/97c888af-10ff-4fbc-9b21-d0f2d10e4b8c)
